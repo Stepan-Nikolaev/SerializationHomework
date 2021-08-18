@@ -1,0 +1,14 @@
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\bin\Debug\netcoreapp3.1\SerializationHomework.exe
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\obj\Debug\netcoreapp3.1\SerializationHomework.csprojAssemblyReference.cache
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\obj\Debug\netcoreapp3.1\SerializationHomework.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\obj\Debug\netcoreapp3.1\SerializationHomework.AssemblyInfo.cs
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\bin\Debug\netcoreapp3.1\SerializationHomework.deps.json
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\bin\Debug\netcoreapp3.1\SerializationHomework.runtimeconfig.json
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\bin\Debug\netcoreapp3.1\SerializationHomework.runtimeconfig.dev.json
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\bin\Debug\netcoreapp3.1\SerializationHomework.dll
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\bin\Debug\netcoreapp3.1\SerializationHomework.pdb
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\obj\Debug\netcoreapp3.1\SerializationHomework.csproj.CopyComplete
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\obj\Debug\netcoreapp3.1\SerializationHomework.dll
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\obj\Debug\netcoreapp3.1\SerializationHomework.pdb
+D:\Степапка\DEX\Домашние задания\Serialization\SerializationHomework\SerializationHomework\obj\Debug\netcoreapp3.1\SerializationHomework.genruntimeconfig.cache
